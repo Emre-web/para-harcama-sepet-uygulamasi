@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Ülker Çikolatalı Gofret",
+    "price": 2.50,
+    "image": "https://cdnd-tr.ceptesok.com/product/1000x1000/15a2d_Cikolatali_Gofret_36_Gr.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 20,
+    "image": "https://ayb.akinoncdn.com/products/2022/04/12/1740/c7515af9-86b8-425d-8fd8-b10aeb4a97e7_size780x780_quality60_cropCenter.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Eti Karam",
+    "price": 7.50,
+    "image": "https://productimages.hepsiburada.net/s/32/375/10377528148018.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Cips",
+    "price": 16,
+    "image": "https://st1.myideasoft.com/idea/gb/09/myassets/products/537/lays-cips-baharatli-super-101-gr-26187-jpg.jpeg?revision=1611744812"
+  }
+]

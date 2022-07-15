@@ -1,0 +1,21 @@
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to bottom, #ef5b26, #f19c6f);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 1px;
+    z-index: 999;
+}
+
+.header span {
+    margin: 0 10px;
+    font-weight: bold;
+}
